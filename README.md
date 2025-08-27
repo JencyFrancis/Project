@@ -39,12 +39,18 @@ Evaluation Metrics
 Notebooks Workflow
 1.	Data Preprocessing - Data cleaning, structural checks, type conversion, validation and statistical summary
 2.	Data Exploration - Dataset analysis and visualization
-3.	Baseline Models - Initial model training without oversampling
-4.	Oversampling Analysis - Systematic oversampling technique evaluation
-5.	Hyperparameter Tuning - Optimization of best combinations
-6.	Learning Curves - Model behaviour and overfitting analysis
-7.	Final Evaluation - Test set performance and statistical validation
-8.	Model Analysis - Feature importance and insights
+3.	Feature Importance check
+4.	Correlation Analysis
+5.	Outlier Inspection
+6.	Statistical Significance Test(Chi-Square & T-test)
+7.	Baseline Models - Initial model training without oversampling
+8.	Oversampling Analysis - Systematic oversampling technique evaluation
+9.	Hyperparameter Tuning - Optimization of best combinations
+10.	Comprehensive Comaprison
+11.	McNemar's Statistical Significance Test
+12.	Overfitting/Underfitting analysis 
+13.	Research Findings and Conclusion
+14.	
 
 Dependencies
 Core Libraries
