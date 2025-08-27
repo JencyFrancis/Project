@@ -77,12 +77,3 @@ Acknowledgments
 •	Academic supervisors and reviewers for guidance and feedback
 
 
-
-
-
-
-
-
-
-
-<img width="451" height="687" alt="image" src="https://github.com/user-attachments/assets/a7b972dd-997e-443f-a99b-0889b8e22124" />
